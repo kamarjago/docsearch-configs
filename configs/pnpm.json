@@ -1,4 +1,4 @@
-{
+pnpm install{
   "index_name": "pnpm",
   "start_urls": [
     "https://pnpm.io/"
